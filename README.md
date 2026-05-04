@@ -24,7 +24,7 @@ Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/DERSU1/Filmes.git](https://github.com/DERSU1/Filmes.git)
+   git clone https://github.com/DERSU1/Filmes.git
 
 ---
 Desenvolvido por Anderson Silva.
