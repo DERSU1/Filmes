@@ -18,7 +18,7 @@ Acesse o projeto online: (https://filmes-mauve-theta.vercel.app)
 
 Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
 
-1.  **Clone o repositório:**
+1. **Clone o repositório:**
    ```bash
    git clone https://github.com/DERSU1/Filmes.git
 
