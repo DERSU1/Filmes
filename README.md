@@ -14,15 +14,11 @@ Acesse o projeto online: (https://filmes-mauve-theta.vercel.app)
 - **Frontend:** HTML5, SCSS para estilização avançada e JavaScript para interatividade.
 - **Deploy:** Vercel.
 
-##  Como executar o projeto
-
-Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
-
 ## Como executar o projeto
 
 Para visualizar o projeto localmente em sua máquina, siga os passos abaixo:
 
-1. **Clone o repositório:**
+1.  **Clone o repositório:**
    ```bash
    git clone https://github.com/DERSU1/Filmes.git
 
